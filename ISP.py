@@ -19,8 +19,9 @@ class Food():
         print('свет включен')
 
 
-class Food():
-
+class Music():
+    def turn_on_music(self):
+        print('включаю подборку ваших любимых песен')
 
 
 
